@@ -1,0 +1,6 @@
+[submodule "asset-management-fe"]
+	path = asset-management-fe
+	url = https://github.com/kabutoshinki/asset-management-fe
+[submodule "asset-management-be"]
+	path = asset-management-be
+	url = https://github.com/kabutoshinki/asset-management-be
